@@ -14,6 +14,7 @@ cluster’s members.
 
 
 we'll allow:
+
 ![image](https://github.com/user-attachments/assets/5fdeee49-fa07-4685-a87b-6c5c9d24900e)
 
 using ϵ = 0.001, and if iter is not provided, default value is 200.
